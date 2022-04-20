@@ -1,0 +1,14 @@
+@media (max-width: 769px) {
+    body {
+        text-align: center;
+        align-items: center;
+    }
+    .home-text {
+        order: -1;
+    }
+    .tittle-home,
+    .tittle-home::after {
+        text-align: center;
+        align-self: center;
+    }
+}
