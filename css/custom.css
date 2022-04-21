@@ -85,7 +85,7 @@ body {
 }
 
 .btn-home:hover {
-    transform: translateY(-10px) scale(1.09);
+    /* transform: translateY(-5px); */
 }
 
 .icons a {
